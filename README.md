@@ -1,113 +1,45 @@
-# Hi, I'm Thomas 👋
+Hi, I’m Thomas 👋
 
-### Junior ICT Professional | AI-Assisted Software Development | Mobile Applications | Software Testing
+Junior ICT Professional | Software Development | Mobile Applications | AI-Assisted Development
 
-I'm a technology enthusiast and independent developer based in Finland, with a focus on software development, AI-assisted programming, application development, and technical problem-solving.
+I’m an Information Technology student at Metropolia University of Applied Sciences in Finland, developing practical skills in software engineering, mobile applications, and AI technologies.
 
-I enjoy building applications, exploring emerging technologies, and continuously improving my programming and IT skills through hands-on projects.
+I enjoy building applications, solving technical challenges, and learning through hands-on development.
 
----
+💻 Technical Skills
 
-## 💻 Technical Skills & Technologies
+Programming: Python, JavaScript, TypeScript, SQL
+Mobile & Web: React Native, Expo, React, Node.js
+Development Tools: VS Code, Windows PowerShell, Git, GitHub
+Android: Gradle, Android SDK, ADB, Android Emulator
+AI: Generative AI, LLMs, GitHub Copilot, AI-assisted development
+IT Fundamentals: Linux, networking, cybersecurity, cloud computing, databases
 
-**Programming & Development**
-- JavaScript
-- TypeScript
-- Python
-- SQL
-- HTML & CSS
-- React Native
+🚀 What I’m Building
 
-**Development Tools**
-- Visual Studio Code
-- Git & GitHub
-- GitHub Copilot
-- AI-assisted development tools
-- npm and package management
+I’m developing a React Native and Expo mobile app featuring RSS reading, article discovery, customizable reading experiences, and writing tools.
 
-**Software Development Practices**
-- Version control and Git workflows
-- Debugging and troubleshooting
-- Software testing and bug fixing
-- Code linting and error resolution
-- UI/UX implementation
-- Application development and maintenance
-- Technical documentation
+The project involves application architecture, UI development, API integration, debugging, and testing across different Android screen sizes.
 
----
+🔧 A Real Development Challenge
 
-## 🚀 What I'm Working On
+Getting my app running as a native Android build was one of my most valuable learning experiences.
 
-I'm independently developing a mobile application using modern development tools and AI-assisted programming workflows.
+After encountering Gradle configuration and emulator compatibility problems, I used Windows PowerShell to troubleshoot the Android SDK, inspect build errors, and resolve an x86_64 architecture mismatch.
 
-My development work includes:
+Working directly with Gradle and ADB, I successfully compiled, installed, and tested the app on Android emulators, including a Pixel Fold.
 
-- Designing and implementing mobile interfaces
-- Building and refining application features
-- Debugging and resolving technical issues
-- Managing dependencies and development packages
-- Using Git and GitHub for version control
-- Testing functionality and improving code quality
-- Exploring AI-assisted software engineering practices
+This experience strengthened my understanding of Android build systems, command-line troubleshooting, and practical software debugging.
 
-My primary application repository is private while development continues.
+🎯 Currently Focused On
 
----
+* Improving my software engineering and mobile development skills
+* Exploring AI-assisted development and automation
+* Building reliable applications through testing and debugging
+* Gaining professional experience through junior roles, internships, or traineeships
 
-## 🤖 AI & Software Development
+🤝 Let’s Connect
 
-I'm particularly interested in applying AI and large language models to practical software development.
+I’m open to opportunities in software development, mobile applications, AI, IT support, and software testing in Finland, the United States, and remote environments.
 
-My hands-on experience includes using GitHub Copilot and AI-assisted development workflows to support:
-
-- Code generation and refinement
-- Debugging and technical troubleshooting
-- Understanding unfamiliar code
-- Identifying and resolving software errors
-- Improving development workflows
-- Learning new programming concepts and technologies
-
-I view AI as a tool for accelerating learning, improving productivity, and supporting practical problem-solving.
-
----
-
-## 📂 Technical Projects
-
-**Mobile Application Development**
-- Independent application development project
-- Mobile UI/UX implementation
-- Feature development, testing, and debugging
-- Private source code repository
-
-**SQL & Database Projects**
-- SQL-related technical exercises and projects
-- Database query practice and validation
-
-Additional projects and technical work are available in my public repositories.
-
----
-
-## 🌍 Professional Interests
-
-I'm interested in opportunities involving:
-
-- Junior Software Development
-- AI-Assisted Development
-- Software Testing & Quality Assurance
-- IT & Technical Support
-- Mobile Application Development
-- Remote Technical Roles
-
----
-
-## 🔗 Connect With Me
-
-**LinkedIn:** [Thomas Ntrikos](https://www.linkedin.com/in/thomas-ntrikos-462b37380/)
-
-**Location:** Finland
-
-Open to connecting with developers, IT professionals, and technology teams.
-
----
-
-*Always learning. Always building. Always improving.*
+I’m always interested in learning, collaborating, and contributing to meaningful technology projects.
